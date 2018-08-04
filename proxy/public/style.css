@@ -1,0 +1,22 @@
+#Header {
+  display: block;
+  border: solid thin black;
+}
+
+#Map {
+  display: block;
+  border: solid thin black;
+}
+
+#Gallery {
+  margin-left: 5px;
+  display: block;
+  border: solid thin black;
+}
+
+#Reviews {
+  margin: 10%;
+  display: block;
+  border: solid thin black;
+}
+
